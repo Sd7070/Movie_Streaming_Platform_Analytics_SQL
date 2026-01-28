@@ -1,6 +1,6 @@
 # 🎬 Movie Streaming Platform Analytics
 
-![Streaming Platform Analytics Banner]()
+![Streaming Platform Analytics Banner](0_zdNurvD2F-Q18RQ-.png)
 
 ## 📌 Project Overview
 This project involves a comprehensive **SQL-based analysis** for a fictional movie streaming platform. The goal is to analyze user behavior, content performance, subscription trends, and revenue generation to drive data-driven decision-making.
